@@ -11,6 +11,11 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        back: "#F7F7F7",
+        whitness:"#FFFFFF",
+        blackness:"#000000",
+        smoke:" #F7F7F7"
+
       },
     },
   },
