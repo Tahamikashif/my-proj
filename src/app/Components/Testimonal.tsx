@@ -15,7 +15,7 @@ const Testimonal = () => {
              <Image className='ml-[49px] mt-[-20px]' src="/Images/pic24.png" width={20} height={10} alt='pics' />
              <Image className='ml-[65px] mt-[-20px]' src="/Images/pic24.png" width={20} height={10} alt='pics' />
              <div className='w-[298.67px] h-[215px] gap-[24px] mt-[30px]'>
-             <p>"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi dignissimos alias consequatur, ea itaque hic explicabo fuga quam quos provident optio debitis totam incidunt obcaecati! Perferendis placeat aliquam numquam minus?"</p>
+             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi dignissimos alias consequatur, ea itaque hic explicabo fuga quam quos provident optio debitis totam incidunt obcaecati! Perferendis placeat aliquam numquam minus?</p>
               </div>
     
     <div className='w-[215px] h-[56px] gap-[20px]'>
@@ -44,7 +44,7 @@ const Testimonal = () => {
              <Image className='ml-[49px] mt-[-20px]' src="/Images/pic24.png" width={20} height={10} alt='pics' />
              <Image className='ml-[65px] mt-[-20px]' src="/Images/pic24.png" width={20} height={10} alt='pics' />
              <div className='w-[298.67px] h-[215px] gap-[24px] mt-[30px]'>
-             <p>"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi dignissimos alias consequatur, ea itaque hic explicabo fuga quam quos provident optio debitis totam incidunt obcaecati! Perferendis placeat aliquam numquam minus?"</p>
+             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi dignissimos alias consequatur, ea itaque hic explicabo fuga quam quos provident optio debitis totam incidunt obcaecati! Perferendis placeat aliquam numquam minus?</p>
               </div>
     
     <div className='w-[215px] h-[56px] gap-[20px]'>
@@ -76,7 +76,7 @@ const Testimonal = () => {
              <Image className='ml-[49px] mt-[-20px]' src="/Images/pic24.png" width={20} height={10} alt='pics' />
              <Image className='ml-[65px] mt-[-20px]' src="/Images/pic24.png" width={20} height={10} alt='pics' />
              <div className='w-[298.67px] h-[215px] gap-[24px] mt-[30px]'>
-             <p>"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi dignissimos alias consequatur, ea itaque hic explicabo fuga quam quos provident optio debitis totam incidunt obcaecati! Perferendis placeat aliquam numquam minus?"</p>
+             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi dignissimos alias consequatur, ea itaque hic explicabo fuga quam quos provident optio debitis totam incidunt obcaecati! Perferendis placeat aliquam numquam minus?</p>
               </div>
     
     <div className='w-[215px] h-[56px] gap-[20px]'>
